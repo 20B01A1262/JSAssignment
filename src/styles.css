@@ -1,0 +1,22 @@
+.card {
+    height :450px;
+    width :280px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color:skyblue;
+    border-width: 80px;
+    text-align: left
+}
+h1 {
+    color:red;
+    text-align: left;
+}
+button {
+    color:blue;
+    border-style:none;
+}
+img {
+    border-radius:2px;
+    width: 280px;
+    height: 200px;
+}
